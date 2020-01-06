@@ -1,3 +1,4 @@
 # hello-world
 
-Now on the lesson to make and commit changes
+Once merging readme-edits branch into master was done then this is second trial.
+
