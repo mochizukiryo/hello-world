@@ -1,3 +1,3 @@
 # hello-world
 
-Everything chnages 
+Everything changes 
