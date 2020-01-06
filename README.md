@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Now on the lesson to make and commit changes
